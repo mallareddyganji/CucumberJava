@@ -1,0 +1,19 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 9C4F-9FAA
+
+ Directory of D:\git\malla\CucumberJava
+
+08/10/2020  03:12 AM    <DIR>          .
+08/10/2020  03:12 AM    <DIR>          ..
+08/09/2020  11:30 PM             1,595 .classpath
+08/10/2020  02:36 AM             2,049 .gitignore
+08/09/2020  06:13 PM               564 .project
+08/10/2020  12:47 AM    <DIR>          .settings
+08/10/2020  03:12 AM               109 hello
+08/10/2020  03:12 AM                 0 hello.txt
+08/09/2020  11:29 PM             2,359 pom.xml
+08/10/2020  02:57 AM                65 README.md
+08/09/2020  11:22 PM               536 Readme.sql
+08/10/2020  12:47 AM    <DIR>          src
+               8 File(s)          7,277 bytes
+               4 Dir(s)  301,374,623,744 bytes free
